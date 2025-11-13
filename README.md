@@ -1,2 +1,2 @@
-# morse-utils
+# MorseUtils
 Utilities for morse-vs-horse.
